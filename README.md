@@ -13,6 +13,10 @@ Compila um JavaScript mais resiliente; e <br>
 Ajuda a desenvolver boas práticas de programação.
 
 ```
+npm init
+```
+
+```
 npm install -g typescript
 ```
 
