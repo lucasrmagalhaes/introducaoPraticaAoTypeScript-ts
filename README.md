@@ -12,6 +12,14 @@ Adiciona definição estática de tipos:
 Compila um JavaScript mais resiliente; e <br>
 Ajuda a desenvolver boas práticas de programação.
 
+```
+npm install -g typescript
+```
+
 ``` 
-npm install --save -dev typescript && npm install lite-server
+npm install lite-server
+```
+
+```
+tsc --init
 ```
