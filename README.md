@@ -27,3 +27,5 @@ npm install lite-server
 ```
 tsc --init
 ```
+
+[everyday-types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
