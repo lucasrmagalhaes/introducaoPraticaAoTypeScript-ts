@@ -1,5 +1,5 @@
 "use strict";
-function printaValoresNumericos(numero1, numero2) {
+function exibeValoresNumericos(numero1, numero2) {
     console.log(numero1 + numero2);
 }
 function somarValoresNumericosETratar(numero1, numero2, callback) {
